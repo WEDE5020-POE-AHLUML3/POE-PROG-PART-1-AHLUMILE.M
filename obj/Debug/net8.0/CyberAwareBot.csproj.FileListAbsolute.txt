@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\bin\Debug\net8.0\CyberAwareBot.exe
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\bin\Debug\net8.0\CyberAwareBot.dll
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\obj\Debug\net8.0\CyberAwareBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\obj\Debug\net8.0\CyberAwareBot.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\obj\Debug\net8.0\CyberAwareBot.AssemblyInfo.cs
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\obj\Debug\net8.0\CyberAwareBot.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\obj\Debug\net8.0\CyberAwareBot.dll
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\obj\Debug\net8.0\refint\CyberAwareBot.dll
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\obj\Debug\net8.0\CyberAwareBot.pdb
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\bin\Debug\net8.0\CyberAwareBot.deps.json
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\bin\Debug\net8.0\CyberAwareBot.runtimeconfig.json
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\bin\Debug\net8.0\CyberAwareBot.pdb
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\obj\Debug\net8.0\CyberAwareBot.genruntimeconfig.cache
+C:\Users\Student\source\repos\CyberAwareBot\CyberAwareBot\obj\Debug\net8.0\ref\CyberAwareBot.dll
